@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CutAndStackG</string>
+    <string name="copy_btn_text">Copy</string>
+    <string name="columns_label">Columns</string>
+    <string name="rows_label">Rows</string>
+    <string name="row_hint">Number of row</string>
+    <string name="col_hint">Number of col</string>
+    <string name="chechbox_heading">Calculate for one side</string>
+    <string name="result_label">Result</string>
+    <string name="welcome_message">Welcome to Cut and Stack Generation app!</string>
+</resources>
